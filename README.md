@@ -1,6 +1,14 @@
 # codesandbox-nuxt
 
-> Nuxt starter for CodeSandBox (used for https://template.nuxtjs.org)
+Fix for the following codesandbox code that breaks the following page:
+https://content.nuxtjs.org/examples/tailwindcss-typography
+![image](https://user-images.githubusercontent.com/72577411/128582427-dd8ee1e9-ae07-4ac2-a011-5dbf12e975c2.png)
+
+Broken code forked from:
+https://codesandbox.io/s/twhtf
+
+Broken code embed:
+https://codesandbox.io/embed/nuxt-content-tailwindcss-typography-twhtf?hidenavigation=1&theme=dark
 
 ## Build Setup
 
