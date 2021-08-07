@@ -1,7 +1,11 @@
 # codesandbox-nuxt
 
 Fix for the following codesandbox code that breaks the following page:
+
 https://content.nuxtjs.org/examples/tailwindcss-typography
+
+https://github.com/nuxt/content/blob/main/docs/content/en/examples/tailwindcss-typography.md
+
 ![image](https://user-images.githubusercontent.com/72577411/128582427-dd8ee1e9-ae07-4ac2-a011-5dbf12e975c2.png)
 
 Broken code forked from:
